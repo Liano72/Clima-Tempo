@@ -1,5 +1,5 @@
 // Variáveis e seleção de elementos
-const apiKey = "65af5d9250ec8888c93806944ca355df";
+const apiKey = "Your Key";
 const apiCountryURL = "https://www.countryflagicons.com/SHINY/64/DE.png";
 
 //const apiImagensKey = createClient('FayzmuOMcb0vEm1zPcPbfYWsofiByMCuNQxpGVT5LCxqt2sEjphpkflc');
