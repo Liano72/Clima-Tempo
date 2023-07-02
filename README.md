@@ -6,6 +6,6 @@ Compartilho com vocês meu projeto mais recente com finalidade de estudo. Um Cli
 
 🔨 Ferramentas utilizadas:
 
-#html
-#css
+#html</br>
+#css</br>
 #javascript
